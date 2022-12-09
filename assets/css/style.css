@@ -1209,6 +1209,7 @@ display: inline-block;
     padding: 5px;
     font-size: 15px;
     font-weight: 600;
+    padding: 15px 0px 10px 0px;
 }
 .filters li a{
   color: #333;
